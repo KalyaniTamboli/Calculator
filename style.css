@@ -5,7 +5,9 @@
     outline: none ;
     box-sizing: border-box;
 }
-
+.cl{
+    background-color: rgba(235, 0, 102, 0.869);
+}
 .calculator container{
     height: 100vh;
     display: flex;
