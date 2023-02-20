@@ -48,5 +48,13 @@ button{
   border-radius: 50%;  
   font-size: 16px;   
   margin: 8px;
-
 }
+.equal{
+    background-color: rgba(235, 0, 102, 0.869);
+    width: 115px;
+    border-radius: 40px;
+    box-shadow:  -5px -5px 12px #ffffff,
+                  5px  5px 12px rgba(0,0,0,0.16);
+}
+
+
